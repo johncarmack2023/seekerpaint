@@ -1,6 +1,6 @@
 # Privacy Policy for Seeker Paint
 
-*Last updated: [Insert Date]*
+*Last updated: Mar 20 2026
 
 Seeker Paint ("we", "our", or "the App") respects your privacy. This Privacy Policy describes how we collect, use, and protect your information when you use our application.
 
